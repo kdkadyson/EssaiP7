@@ -1,6 +1,6 @@
 
-{// SERVER DE REMPLACEMENT
-    
+// SERVER DE REMPLACEMENT
+    { 
     "events": [
       {
         "id": 123,
